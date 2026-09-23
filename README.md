@@ -1,6 +1,6 @@
-# Purpose & Practice
+# Intent & Practice
 
-Static website for Purpose & Practice — Strategy, Regulation & Transformation.
+Static website for Intent & Practice — Strategy, Regulation & Transformation.
 
 ## Publish with GitHub Pages
 In repository Settings → Pages, choose **Deploy from a branch**, select **main** and **/(root)**, then Save.
