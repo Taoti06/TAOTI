@@ -8,6 +8,8 @@ TAOTI is a play on “the Tao of TI”. Here, **TI** means **Transformation + In
 
 The site uses plain HTML, CSS and JavaScript. GitHub Pages serves the `main` branch from the repository root.
 
-Current address: https://taoti06.github.io/intent-and-practice/
+- Current site: https://taoti06.github.io/TAOTI/
+- Current repository: https://github.com/Taoti06/TAOTI
+- Previous site address: https://taoti06.github.io/intent-and-practice/
 
-The repository name and Pages URL retain the previous name until the repository is renamed and its Pages settings and links are checked.
+GitHub redirects the old **repository** URL after a rename, but it does not redirect the old **Pages** address. The files in `legacy-pages-redirect/` are ready to publish from a new public repository named `intent-and-practice`. Copy `index.html` and `404.html` to that repository's root, then enable GitHub Pages from its `main` branch and root folder. The redirect preserves the page path, query string and fragment for browsers running JavaScript; the HTML fallback points to the TAOTI homepage. The old address does not redirect until that separate repository is created and Pages is enabled.
