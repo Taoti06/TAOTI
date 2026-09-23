@@ -1,10 +1,13 @@
-# Intent & Practice
+# TAOTI
 
-Static website for **Intent & Practice — Enterprise Strategy + Integration**.
+Static website for **TAOTI — Transformation + Integration Advisory**.
 
-Core proposition: connect strategy, customer, product, technology, data, investment and delivery so complex organisations can make better choices and achieve measurable outcomes.
+TAOTI is a play on “the Tao of TI”. Here, **TI** means **Transformation + Integration**: connecting strategy, customer, product, technology, data, investment and delivery so complex organisations make coherent choices and achieve measurable outcomes.
 
-## Publish with GitHub Pages
-In repository Settings → Pages, choose **Deploy from a branch**, select **main** and **/(root)**, then Save.
+## Site
 
-The site uses plain HTML, CSS and JavaScript.
+The site uses plain HTML, CSS and JavaScript. GitHub Pages serves the `main` branch from the repository root.
+
+Current address: https://taoti06.github.io/intent-and-practice/
+
+The repository name and Pages URL retain the previous name until the repository is renamed and its Pages settings and links are checked.

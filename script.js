@@ -1,1 +1,1 @@
-document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelector('.mobile'),n=document.querySelector('.navin nav');if(b)b.addEventListener('click',()=>n.classList.toggle('open'));});
+document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelector('.mobile'),n=document.querySelector('.navin nav');if(!b||!n)return;b.addEventListener('click',()=>{const open=n.classList.toggle('open');b.setAttribute('aria-expanded',String(open));});});
