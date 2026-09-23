@@ -1,8 +1,8 @@
 # Intent & Practice
 
-Static website for Intent & Practice — Regulatory Design + Technology.
+Static website for **Intent & Practice — Enterprise Strategy + Integration**.
 
-Core proposition: We design how regulators work and help them get the technology they need to do it.
+Core proposition: connect strategy, customer, product, technology, data, investment and delivery so complex organisations can make better choices and achieve measurable outcomes.
 
 ## Publish with GitHub Pages
 In repository Settings → Pages, choose **Deploy from a branch**, select **main** and **/(root)**, then Save.
