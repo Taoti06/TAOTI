@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelector('.mobile'),n=document.querySelector('.navin nav');if(b)b.addEventListener('click',()=>n.classList.toggle('open'));});
