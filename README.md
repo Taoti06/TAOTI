@@ -1,8 +1,8 @@
 # TAOTI
 
-Static website for **TAOTI — Transformation + Integration Advisory**.
+Static website for **TAOTI — Enterprise Strategy + Integration**.
 
-TAOTI is a play on “the Tao of TI”. Here, **TI** means **Transformation + Integration**: connecting strategy, customer, product, technology, data, investment and delivery so complex organisations make coherent choices and achieve measurable outcomes.
+TAOTI is a play on “the Tao of TI”. The public proposition is **Enterprise Strategy + Integration**: connecting strategy, customer, product, technology, data, investment and delivery so complex organisations make coherent choices and achieve measurable outcomes. The name retains its underlying “Tao of TI” idea, with transformation and integration as part of the TAOTI story rather than the primary descriptor.
 
 ## Site
 
