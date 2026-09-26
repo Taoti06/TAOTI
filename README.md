@@ -1,15 +1,21 @@
-# TAOTI
+# Calm Agency
 
-Static website for **TAOTI — Enterprise Strategy + Integration**.
+Static site content prepared for the existing Calm Agency Wix site. The seven public pages, visual layout and services remain the source for the Wix move; public branding now reads **Calm Agency**.
 
-TAOTI is a play on “the Tao of TI”. The public proposition is **Enterprise Strategy + Integration**: connecting strategy, customer, product, technology, data, investment and delivery so complex organisations make coherent choices and achieve measurable outcomes. The name retains its underlying “Tao of TI” idea, with transformation and integration as part of the TAOTI story rather than the primary descriptor.
+## Current addresses
 
-## Site
+- GitHub Pages source: https://taoti06.github.io/TAOTI/
+- GitHub repository: https://github.com/Taoti06/TAOTI
+- Earlier Pages address: https://taoti06.github.io/intent-and-practice/
 
-The site uses plain HTML, CSS and JavaScript. GitHub Pages serves the `main` branch from the repository root.
+The GitHub Pages source remains live on the main branch until the Calm Agency Wix destination is published and verified. This rebrand branch is a staging copy; it does not rename the repository, change the GitHub Pages URL or edit Wix.
 
-- Current site: https://taoti06.github.io/TAOTI/
-- Current repository: https://github.com/Taoti06/TAOTI
-- Previous site address: https://taoti06.github.io/intent-and-practice/
+## Wix migration
 
-GitHub redirects the old **repository** URL after a rename, but it does not redirect the old **Pages** address. The files in `legacy-pages-redirect/` are ready to publish from a new public repository named `intent-and-practice`. Copy `index.html` and `404.html` to that repository's root, then enable GitHub Pages from its `main` branch and root folder. The redirect preserves the page path, query string and fragment for browsers running JavaScript; the HTML fallback points to the TAOTI homepage. The old address does not redirect until that separate repository is created and Pages is enabled.
+1. Confirm the existing Wix site's primary domain, account and page structure.
+2. Transfer the rebranded page content, metadata and visual assets into that site, matching old page paths where possible.
+3. Check desktop/mobile layouts, links, contact route, metadata and search indexing.
+4. After Wix is live, replace the old GitHub Pages content with redirects to the corresponding Wix pages. Wix cannot serve redirects for the github.io hostname.
+5. Keep the repository as a source archive; do not remove the old Pages address until redirects have been tested.
+
+The files in `legacy-pages-redirect/` relate to the earlier intent-and-practice address; update their destination after the Wix URL is confirmed.
